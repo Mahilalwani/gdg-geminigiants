@@ -5,7 +5,7 @@
 
 // ---------------- API CONFIG ----------------
 // 🔑 Paste your API key from https://aistudio.google.com/apikey
-const GEMINI_API_KEY = "AIzaSyC3ab8_cVrWvH4JtxkQRC43OJMbXCu9obY";
+const GEMINI_API_KEY = "AIzaSyAUImD5BNELpRngIui9BqqCB-nCLrNN1-w";
 
 // Model fallback list — tried in order until one works
 // gemini-2.5-flash is the newest free-tier model as of 2025
